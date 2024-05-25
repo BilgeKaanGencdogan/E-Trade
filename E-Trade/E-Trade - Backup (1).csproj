@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>E_Trade</RootNamespace>
+  </PropertyGroup>
+
+		<ProjectReference Include="..\Business\DataAccess.csproj" />
+
+
+		
+
+
+</Project>
